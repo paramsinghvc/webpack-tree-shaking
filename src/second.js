@@ -1,0 +1,1 @@
+export const sayAloha = name => console.log(`Aloha ${name}`);
